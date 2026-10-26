@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Atividade Axios",
+    "slug": "atividade-axios",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "atividade-axios",
+    "plugins": ["expo-router"]
+  }
+}
